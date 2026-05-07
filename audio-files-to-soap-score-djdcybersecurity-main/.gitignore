@@ -1,0 +1,20 @@
+# Environment files
+.env
+*.env
+
+# Python virtual environment
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS-specific files
+.DS_Store
+
+# Results that should NOT be committed (optional)
+*.wav
